@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Atharva S Chitre
-- 👀 I’m interested in Emerging Technology in CSE and IT field
-- 🌱 I’m currently learning Machine Learning
-- 📫 atharvachitre@gmail.com
-- ![instagram](https://user-images.githubusercontent.com/100697714/156183225-8b58c713-7621-4954-9fc3-d0f6199b1b7d.png) _atharvachitre_11
+- 👋 Hi, I'm Atharva, a computer science and engineering student with a passion for emerging technologies. I am currently learning and exploring the field of machine learning. My GitHub repository contains a collection of my projects, where I implement my knowledge and skills in various technologies such as Python, Java, and C#. I love to solve real-world problems and contribute to the open-source community. Connect with me on LinkedIn to know more about my journey in the field of technology.Apart from my technical skills, I am also a team player with excellent communication skills. I have collaborated with other developers and worked on projects that require a high level of collaboration and coordination. I am always eager to learn from others and contribute to the success of the team.I am also an avid learner and have completed several online courses and certifications related to computer science, machine learning, and data science. 
+- 📫 atharvachitre123@gmail.com
+- ![instagram](https://user-images.githubusercontent.com/100697714/156183225-8b58c713-7621-4954-9fc3-d0f6199b1b7d.png) - mr.guywithbrain
 - ![linkedin (1)](https://user-images.githubusercontent.com/100697714/156183583-ab3656dd-b2b7-4732-b9e7-3156c0d30f08.png) -ATHARVA CHITRE
 
 
